@@ -7,7 +7,7 @@ const businesses = {
     timeTaken: 1,
     quantityPurchased: 1,
     hasManager: false,
-    profit: 1,
+    profit: -1,
     icon: 'lemon.png',
   },
   newspaper_delivery: {
